@@ -1,0 +1,25 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#header {
+    text-align: center;
+    color: white;
+    background-image: url(images/hero.png);
+    padding-top: 120px;
+    padding-bottom: 120px;
+
+}
+
+button {
+    padding: 15px 30px;
+    color: white;
+    font-weight: bold;
+    background-color: brown;
+    border: none;
+    border-radius: 10px;
+}
