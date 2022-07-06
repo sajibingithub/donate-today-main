@@ -100,3 +100,17 @@ section {
     background-color: #ffefcc;
     padding: 40px 20px 0px 20px;
 }
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%;
+    margin-left: 10px;
+}
+
+.half-width text {
+    width: 100%;
+    margin-right: 20px;
+}
