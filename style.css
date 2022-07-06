@@ -85,6 +85,7 @@ section {
 .food {
     background-color: #d9d9d9;
     padding: 40px 20px 0px 20px;
+    border-radius: 5px;
 
 }
 
@@ -93,12 +94,14 @@ section {
     margin-left: 20px;
     margin-right: 20px;
     padding: 40px 20px 0px 20px;
+    border-radius: 5px;
 
 }
 
 .education {
     background-color: #ffefcc;
     padding: 40px 20px 0px 20px;
+    border-radius: 5px;
 }
 
 .half-width {
@@ -109,9 +112,55 @@ section {
 
 .half-width img {
     width: 100%;
+    border-radius: 5px;
 
 }
 
 .half-width text {
     width: 100%;
+}
+
+#update {
+    text-align: center;
+}
+
+#email {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 150px;
+    padding-left: 15px;
+    color: rgb(95, 90, 90);
+    font-weight: bold;
+    background-color: #f5eeee;
+    border: none;
+
+}
+
+#subscribe-button {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: #ffefcc;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+}
+
+.sub-button {
+    padding: 15px 30px;
+    color: white;
+    font-weight: bold;
+    background-color: #ff4d4d;
+    border: none;
+
+
+}
+
+footer {
+    margin-top: 70px;
+    text-align: center;
+    color: rgb(240, 80, 80);
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
