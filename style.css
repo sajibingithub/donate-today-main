@@ -60,3 +60,43 @@ h2 {
     color: #bfbfbf;
     border-bottom: 1px solid #bfbfbf;
 }
+
+#donate-plan {
+    text-align: center;
+
+}
+
+section {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+
+
+
+
+}
+
+.max-width {
+    width: 33%;
+}
+
+.food {
+    background-color: #d9d9d9;
+    padding: 40px 20px 0px 20px;
+
+}
+
+.shelter {
+    background-color: #ffe6e6;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 40px 20px 0px 20px;
+
+}
+
+.education {
+    background-color: #ffefcc;
+    padding: 40px 20px 0px 20px;
+}
